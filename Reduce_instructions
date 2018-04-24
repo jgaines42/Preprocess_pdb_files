@@ -1,0 +1,6 @@
+This file explains how to access and download reduce, the program we use to add hydrogen atoms to proteins
+
+Reduce is available for download from http://kinemage.biochem.duke.edu/software/reduce.php
+Reduce should be cited using Word, et al.(1999) "Asparagine and glutamine: using hydrogen atom contacts in the choice of sidechain amide orientation" J. Mol. Biol. 285, 1735-1747
+
+You should be able to download the software from the website listed above. Install it locally on your computer and give the full path to the containing folder when running download_preprocess_pdb.py
