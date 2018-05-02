@@ -1,4 +1,4 @@
-# Preprocess_pdb_files
+# download_preprocess_pdb.py
 
 Use these files to set up PDB files for use. 
 
